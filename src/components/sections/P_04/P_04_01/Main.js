@@ -7,13 +7,13 @@ export default function Main() {
 
             <div>
                <h1>
-                2-2 페이지
+                4-1 페이지
                </h1>
             </div>
 
             <div className="main-btn">
-                <GreyBtn to="/p0201"></GreyBtn>
-                <BlueBtn to="/">홈으로</BlueBtn>
+                <GreyBtn to="/"></GreyBtn>
+                <BlueBtn to="/p0402">다음 페이지</BlueBtn>
             </div>
         </div>
     );
